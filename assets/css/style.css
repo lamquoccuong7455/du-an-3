@@ -1,0 +1,22 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font-size: 1.6rem;
+	font-family: "Sora", serif;
+	font-style: normal;
+}
+
+a {
+	text-decoration: none;
+}
+/* =============================common */
+/* =============================header */
+
+/* ===============================main */
+/* =============================footer */

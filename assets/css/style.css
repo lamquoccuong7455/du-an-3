@@ -201,6 +201,7 @@ a {
 .service__desc {
 	margin: 18px auto 0;
 	width: 468px;
+	text-align: center;
 }
 
 .service__img {
